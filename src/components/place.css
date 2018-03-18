@@ -1,5 +1,6 @@
 .place {
-
+ flex-basis: calc(50% - 20px);
+ margin: 10px;
 }
 
 .place-picture {
@@ -11,3 +12,4 @@
 .place-title {
   margin-top: 10px;
 }
+
